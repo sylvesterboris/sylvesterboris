@@ -10,7 +10,7 @@ body{
   display: flex;
   justify-content:center;
   align-items: center;
-  background-color: #00ffff; /* Changed to cyan */
+  background-color: #00ffff; 
 }
 .container{
   background-color: #ffffff;
@@ -18,7 +18,7 @@ body{
 }
 .head{
   padding: 20px;
-  border: 2px solid #00ffff; /* Changed to cyan */
+  border: 2px solid #00ffff; 
 }
 .entry{
   margin: 20px;
@@ -30,12 +30,12 @@ body{
   border-radius: 20px;
   margin-right: 20px;
   margin-bottom: 50px;
-  border:4px solid #00ffff; /* Changed to cyan */
+  border:4px solid #00ffff; 
 }
 #btn{
     align-items: center;
     background-clip: padding-box;
-    background-color: #00ffff; /* Changed to cyan */
+    background-color: #00ffff; 
     border: 1px solid transparent;
     border-radius: .25rem;
     box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
@@ -63,7 +63,7 @@ body{
   
   .button-5:hover,
   .button-5:focus {
-    background-color: #00ced1; /* Changed to darker cyan */
+    background-color: #00ced1;
     box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
   }
   
@@ -72,7 +72,7 @@ body{
   }
   
   .button-5:active {
-    background-color: #008b8b; /* Changed to darker cyan */
+    background-color: #008b8b; 
     box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
     transform: translateY(0);
   } 
